@@ -7,7 +7,7 @@ public class BetterWay {
 //
 //        System.out.println(BetterWay.isPalindrome(number));
 
-        int number = 313;
+        int number = 807;
 
         System.out.println(BetterWay.isPalindrome(number));
 
@@ -26,8 +26,11 @@ public class BetterWay {
             return false;
         }
 
+        int trueReversed = 0;
+
         int reversed = 0;
         while(x > reversed){
+
             reversed = reversed * 10 + (x % 10);
             x /= 10;
         }

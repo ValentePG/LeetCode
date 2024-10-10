@@ -26,8 +26,6 @@ public class BetterWay {
             return false;
         }
 
-        int trueReversed = 0;
-
         int reversed = 0;
         while(x > reversed){
 

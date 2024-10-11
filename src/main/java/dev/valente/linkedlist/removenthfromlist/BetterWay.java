@@ -20,7 +20,7 @@ public class BetterWay {
 
 
 
-        removeNth(node11, 2);
+        removeNth(node11, 5);
 
         printListNode(node11);
 
@@ -41,7 +41,7 @@ public class BetterWay {
         }
         slow.next = slow.next.next;
         return node;
-
+        // ** TEM FALHAS AQUI **
     }
 
     public static void printListNode(ListNode node){

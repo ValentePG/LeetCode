@@ -57,7 +57,7 @@ public class Tree {
     public Tree inverterArvore(Tree tree){ //Nice!
 
 
-        if(tree.esq != null && tree.dir != null){
+        if(tree != null){
             Tree tree1 = tree.dir;
             tree.dir = tree.esq;
             tree.esq = tree1;

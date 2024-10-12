@@ -15,3 +15,5 @@ Por enquanto alguns padrões estão sendo percebidos: 1º HashMaps, 2º Conceito
 **11/10/24: Fiz mais um exercicio sobre linked list, por falta de atenção acabei não vendo que o exercicio pedia para remover a partir do FINAL da lista. Resultado: acabei criando o algoritmo de remoção de acordo com o número dado pelo usuário,
 tenho esse algoritmo em outro repo sobre DSA então aqui mantive apenas o da solução, preciso estudar ambos os algoritmos escritos até aqui. Talvez eu use o final de semana para revisar ou até fazer mais.**
 **Ainda no dia 11: Decidi por curiosidade inverter uma árvore binária sozinho e milagrosamente eu consegui completar o primeiro leetcode 100% solo. É bobeira, porém eu fiquei relativamente feliz.**
+
+**12/10/24: Dia Ocioso de LeetCode, Apenas vi novamente a série de video do Akita falando sobre DSA**

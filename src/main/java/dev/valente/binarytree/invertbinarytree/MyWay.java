@@ -14,8 +14,6 @@ public class MyWay {
         tree.inserirElemento(new Elemento(18));
 
 
-
-
         tree.percursoPreOrdem(tree);
 
         tree = tree.inverterArvore(tree);

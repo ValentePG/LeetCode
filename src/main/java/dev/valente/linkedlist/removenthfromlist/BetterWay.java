@@ -22,7 +22,7 @@ public class BetterWay {
 
         removeNth(node11, 5);
 
-        printListNode(node11);
+        ListNode.printListNode(node11);
 
     }
 
@@ -44,14 +44,5 @@ public class BetterWay {
         // ** TEM FALHAS AQUI **
     }
 
-    public static void printListNode(ListNode node){
-        ListNode justToPrint = node;
 
-        while(justToPrint != null){
-
-            System.out.println(justToPrint.val);
-
-            justToPrint = justToPrint.next;
-        }
-    }
 }

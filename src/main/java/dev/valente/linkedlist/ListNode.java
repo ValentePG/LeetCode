@@ -15,4 +15,15 @@ public class ListNode {
         this.val = val;
         this.next = next;
     }
+
+    public static void printListNode(ListNode node){
+        ListNode justToPrint = node;
+
+        while(justToPrint != null){
+
+            System.out.println(justToPrint.val);
+
+            justToPrint = justToPrint.next;
+        }
+    }
 }

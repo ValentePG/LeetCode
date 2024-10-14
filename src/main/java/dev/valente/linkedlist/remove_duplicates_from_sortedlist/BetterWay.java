@@ -8,12 +8,10 @@ public class BetterWay {
         head.next = new ListNode(1);
         head.next.next = new ListNode(1);
 
-
-
         ListNode novo = deleteDuplicates(head);
 
         ListNode.printListNode(novo);
-
+        System.out.println("");
     }
 
     public static ListNode deleteDuplicates(ListNode head) {
@@ -21,17 +19,11 @@ public class BetterWay {
         ListNode temp = head;
 
 
-
         while(temp != null){
-            if(temp.next == null){
-                temp = null;
-            }
-            else if(temp.val == temp.next.val ){
-
+            if(temp.next != null && temp.val == temp.next.val ){
                 temp.next = temp.next.next;
-                temp = temp.next;
             }
-
+            temp = temp.next;
         }
 
         return head;

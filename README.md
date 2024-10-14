@@ -18,3 +18,6 @@ tenho esse algoritmo em outro repo sobre DSA então aqui mantive apenas o da sol
 
 **12/10/24: Dia Ocioso de LeetCode, Apenas vi novamente a série de video do Akita falando sobre DSA**
 **13/10/24: Mais um dia organizando os estudos e fazendo estudo de mercado.**
+
+**14/10/24: Tentei entregar mais um exercício, mas ao submeter minha solução só passou em 28 casos, aparentemente o problema ocorre quando tem mais de 2 repetições do mesmo valor, sinto que consigo resolver porém não hoje.
+Amanhã farei 2 para compensar.**

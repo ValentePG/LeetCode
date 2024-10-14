@@ -17,3 +17,4 @@ tenho esse algoritmo em outro repo sobre DSA então aqui mantive apenas o da sol
 **Ainda no dia 11: Decidi por curiosidade inverter uma árvore binária sozinho e milagrosamente eu consegui completar o primeiro leetcode 100% solo. É bobeira, porém eu fiquei relativamente feliz.**
 
 **12/10/24: Dia Ocioso de LeetCode, Apenas vi novamente a série de video do Akita falando sobre DSA**
+**13/10/24: Mais um dia organizando os estudos e fazendo estudo de mercado.**

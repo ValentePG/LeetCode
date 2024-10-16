@@ -23,3 +23,5 @@ tenho esse algoritmo em outro repo sobre DSA então aqui mantive apenas o da sol
 Amanhã farei 2 para compensar.**
 
 **15/10/24: Mais padrões percebidos em exercicios envolvendo linkedLists.**
+
+**16/10/24: Mais uma vez eu consigo resolver o problema, porém na hora de traduzir em código eu falho :/**

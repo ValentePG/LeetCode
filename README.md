@@ -25,3 +25,6 @@ Amanhã farei 2 para compensar.**
 **15/10/24: Mais padrões percebidos em exercicios envolvendo linkedLists.**
 
 **16/10/24: Mais uma vez eu consigo resolver o problema, porém na hora de traduzir em código eu falho :/**
+
+**17/10/24: Parei para refletir sobre os exercicios de linkedLists e quase todos seguem o mesmo padrão de two pointers.
+*A partir de hoje irei alocar 2 horas por dia para praticar, afinal eu ainda preciso desenvolver projetos para portfólio)***

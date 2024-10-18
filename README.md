@@ -30,3 +30,6 @@ Amanhã farei 2 para compensar.**
 (Mais tarde) Voltei para fazer mais um exercicio, e acabei me deparando com uma solução que ja havia utilizado no exercicio two sum, 
 consegui fazer tranquilamente (Tirando os problemas da descrição desse exercicio que me fizeram submeter errado algumas vezes), aparentemente a prática esta dando resultado.
 *(A partir de hoje irei alocar 2 horas por dia para praticar, afinal eu ainda preciso desenvolver projetos para portfólio)***
+
+**18/10/24: Refatorei alguns códigos anteriores e fiz mais um exercicio. Mais uma vez, traduzir a solução em código foi um problema enorme,
+mas absorvi mais um padrão de solução bem interessante, amanhã revisarei todos os algoritmos que fiz até aqui para refrescar a memória.**

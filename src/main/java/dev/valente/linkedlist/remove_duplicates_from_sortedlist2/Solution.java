@@ -2,15 +2,15 @@ package dev.valente.linkedlist.remove_duplicates_from_sortedlist2;
 
 import dev.valente.linkedlist.ListNode;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
-        head.next = new ListNode(2);
-        head.next.next = new ListNode(3);
-        head.next.next.next = new ListNode(3);
-        head.next.next.next.next = new ListNode(4);
-        head.next.next.next.next.next = new ListNode(4);
-        head.next.next.next.next.next.next = new ListNode(5);
+        head.insertNode(head, 2);
+        head.insertNode(head, 3);
+        head.insertNode(head, 3);
+        head.insertNode(head, 4);
+        head.insertNode(head, 4);
+        head.insertNode(head, 5);
 
         ListNode novo = deleteDuplicates(head);
 

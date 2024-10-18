@@ -2,25 +2,15 @@ package dev.valente.linkedlist.removenthfromlist;
 
 import dev.valente.linkedlist.ListNode;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
         ListNode node11 = new ListNode(1);
-        ListNode node12 = new ListNode(2);
-        ListNode node13 = new ListNode(3);
-        ListNode node14 = new ListNode(4);
-        ListNode node15 = new ListNode(5);
+        node11.insertNode(node11, 2);
+        node11.insertNode(node11, 3);
+        node11.insertNode(node11, 4);
+        node11.insertNode(node11, 5);
 
-
-        node11.next = node12;
-        node12.next = node13;
-        node13.next = node14;
-        node14.next = node15;
-
-
-
-
-
-        removeNth(node11, 5);
+        removeNth(node11, 1);
 
         ListNode.printListNode(node11);
 

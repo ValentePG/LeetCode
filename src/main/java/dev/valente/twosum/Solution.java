@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
 
         // TESTES
@@ -13,19 +13,7 @@ public class BetterWay {
 
         int target = 9;
 
-        int[] answer = BetterWay.twoSum(nums, target);
-
-//        int[] nums = new int[]{3, 2, 4};
-//
-//        int target = 6;
-//
-//        int[] answer = BetterWay.twoSum(nums, target);
-
-//        int[] nums = new int[]{3, 5, 6, 4};
-//
-//        int target = 10;
-//
-//        int[] answer = BetterWay.twoSum(nums, target);
+        int[] answer = Solution.twoSum(nums, target);
 
         Arrays.stream(answer).forEach(System.out::println);
 

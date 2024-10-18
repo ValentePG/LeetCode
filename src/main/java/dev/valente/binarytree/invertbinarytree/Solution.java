@@ -3,7 +3,7 @@ package dev.valente.binarytree.invertbinarytree;
 import dev.valente.binarytree.Elemento;
 import dev.valente.binarytree.Tree;
 
-public class MyWay {
+public class Solution {
     public static void main(String[] args) {
         Tree tree = new Tree(new Elemento(10));
         tree.inserirElemento(new Elemento(5));
@@ -16,9 +16,23 @@ public class MyWay {
 
         tree.percursoPreOrdem(tree);
 
-        tree = tree.inverterArvore(tree);
+        tree = Solution.inverterArvore(tree);
 
         System.out.println("");
         tree.percursoPreOrdem(tree);
+    }
+
+    public static Tree inverterArvore(Tree tree){ //Nice!
+
+        if(tree != null){
+            Tree tree1 = tree.dir;
+            tree.dir = tree.esq;
+            tree.esq = tree1;
+            inverterArvore(tree.dir);
+            inverterArvore(tree.esq);
+        }
+
+
+        return tree;
     }
 }

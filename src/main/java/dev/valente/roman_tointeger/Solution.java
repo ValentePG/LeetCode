@@ -3,7 +3,7 @@ package dev.valente.roman_tointeger;
 import java.util.HashMap;
 import java.util.Map;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
 
         String teste = "MCMXCIV";

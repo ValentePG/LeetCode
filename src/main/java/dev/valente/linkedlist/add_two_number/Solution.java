@@ -1,28 +1,19 @@
-package dev.valente.linkedlist.addtwonumber;
+package dev.valente.linkedlist.add_two_number;
 
 import dev.valente.linkedlist.ListNode;
 
-public class BetterWay {
+public class Solution {
 
     public static void main(String[] args) {
-        ListNode node11 = new ListNode(2);
-        ListNode node12 = new ListNode(4);
-        ListNode node13 = new ListNode(3);
+        ListNode node = new ListNode(2);
+        node.insertNode(node, 4);
+        node.insertNode(node, 3);
 
+        ListNode node2 = new ListNode(5);
+        node2.insertNode(node2, 6);
+        node2.insertNode(node2, 4);
 
-        ListNode node21 = new ListNode(5);
-        ListNode node22 = new ListNode(6);
-        ListNode node23 = new ListNode(4);
-
-        node11.next = node12;
-        node12.next = node13;
-        node21.next = node22;
-        node22.next = node23;
-
-
-
-
-        BetterWay.addTwoNumbers(node11, node21);
+        ListNode.printListNode(Solution.addTwoNumbers(node, node2));
     }
 
 

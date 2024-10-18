@@ -1,23 +1,14 @@
 package dev.valente.palindrome_number;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
 
-//        int number = 121;
-//
-//        System.out.println(BetterWay.isPalindrome(number));
 
         int number = 807;
 
-        System.out.println(BetterWay.isPalindrome(number));
+        System.out.println(Solution.isPalindrome(number));
 
-//        int number = 10;
-//
-//        System.out.println(BetterWay.isPalindrome(number));
 
-//        int number = -121;
-//
-//        System.out.println(BetterWay.isPalindrome(number));
     }
 
     public static boolean isPalindrome(int x){

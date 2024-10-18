@@ -2,26 +2,17 @@ package dev.valente.linkedlist.merge_two_sorted_lists;
 
 import dev.valente.linkedlist.ListNode;
 
-public class BetterWay {
+public class Solution {
     public static void main(String[] args) {
         ListNode firstList = new ListNode(1);
-        ListNode firstList2 = new ListNode(2);
-        ListNode firstList3 = new ListNode(4);
-
-        firstList.next = firstList2;
-        firstList2.next = firstList3;
-
-
+        firstList.insertNode(firstList, 2);
+        firstList.insertNode(firstList, 4);
 
         ListNode secondList = new ListNode(1);
-        ListNode secondList2 = new ListNode(3);
-        ListNode secondList3 = new ListNode(4);
+        secondList.insertNode(secondList, 3);
+        secondList.insertNode(secondList, 4);
 
-        secondList.next = secondList2;
-        secondList2.next = secondList3;
-
-
-        ListNode.printListNode(BetterWay.mergeTwoSortedLists(firstList, secondList));
+        ListNode.printListNode(Solution.mergeTwoSortedLists(firstList, secondList));
 
     }
 

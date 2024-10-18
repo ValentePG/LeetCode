@@ -26,4 +26,28 @@ public class ListNode {
             justToPrint = justToPrint.next;
         }
     }
+
+    public void insertNode(ListNode head, int val){
+        ListNode newNode = new ListNode(val);
+        ListNode temp = head;
+
+        while(temp.next != null){
+
+            temp = temp.next;
+        }
+        temp.next = newNode;
+    }
+
+    //Método criado apenas para fazer a lista virar uma lista circular
+    public void insertNode(ListNode cycleNode, ListNode head){
+
+        ListNode temp = head;
+        while(temp.next != null){
+            temp = temp.next;
+        }
+        temp.next = cycleNode;
+        cycleNode.next = head;
+    }
+
+
 }

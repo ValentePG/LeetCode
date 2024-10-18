@@ -54,20 +54,20 @@ public class Tree {
         }
     }
 
-    public Tree inverterArvore(Tree tree){ //Nice!
-
-
-        if(tree != null){
-            Tree tree1 = tree.dir;
-            tree.dir = tree.esq;
-            tree.esq = tree1;
-            inverterArvore(tree.dir);
-            inverterArvore(tree.esq);
-        }
-
-
-        return tree;
-    }
+//    public Tree inverterArvore(Tree tree){ //Nice!
+//
+//
+//        if(tree != null){
+//            Tree tree1 = tree.dir;
+//            tree.dir = tree.esq;
+//            tree.esq = tree1;
+//            inverterArvore(tree.dir);
+//            inverterArvore(tree.esq);
+//        }
+//
+//
+//        return tree;
+//    }
 
     public Elemento getElemento() {
         return elemento;

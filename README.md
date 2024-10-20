@@ -33,3 +33,5 @@ consegui fazer tranquilamente (Tirando os problemas da descrição desse exercic
 
 **18/10/24: Refatorei alguns códigos anteriores e fiz mais um exercicio. Mais uma vez, traduzir a solução em código foi um problema enorme,
 mas absorvi mais um padrão de solução bem interessante, amanhã revisarei todos os algoritmos que fiz até aqui para refrescar a memória.**
+
+**19/10/24: Descanso **

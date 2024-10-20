@@ -1,4 +1,4 @@
-Repositório com respostas do LeetCode.
+Repositório com respostas do LeetCode. (Relatório Diário)
 
 Por enquanto o método de estudo utilizado é: Eu penso na resolução do problema, após isto eu desenvolvo o código.
 
@@ -35,3 +35,5 @@ consegui fazer tranquilamente (Tirando os problemas da descrição desse exercic
 mas absorvi mais um padrão de solução bem interessante, amanhã revisarei todos os algoritmos que fiz até aqui para refrescar a memória.**
 
 **19/10/24: Descanso **
+
+**20/10/24: Decidi criar um projeto de automação simples em shell script para utilizar enquanto versiono este repo. Vai ser bem simples na verdade apenas irei implementar um .sh com comandos como git add, git commit -m "" e git push, onde irei personalizar apenas a mensagem do commit, o resto vai ser padrão.**

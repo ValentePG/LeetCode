@@ -37,3 +37,5 @@ mas absorvi mais um padrão de solução bem interessante, amanhã revisarei tod
 **19/10/24: Descanso**
 
 **20/10/24: Decidi criar um projeto de automação simples em shell script para utilizar enquanto versiono este repo. Vai ser bem simples na verdade apenas irei implementar um .sh com comandos como git add, git commit -m "" e git push, onde irei personalizar apenas a mensagem do commit, o resto vai ser padrão.**
+
+**21/10/24: Criei o programa em shell simples para executar toda vez que eu quiser dar um push ou pull no repo (Não fiz leetcode hoje).**

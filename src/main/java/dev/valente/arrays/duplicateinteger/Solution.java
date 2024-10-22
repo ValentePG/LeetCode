@@ -1,11 +1,11 @@
-package dev.valente.neetcode.arrays.duplicateinteger;
+package dev.valente.arrays.duplicateinteger;
 
 import java.util.HashMap;
 
 public class Solution {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 3};
-        System.out.println(hasDuplicate(nums));
+        System.out.println(Solution.hasDuplicate(nums));
     }
 
     public static boolean hasDuplicate(int[] nums){

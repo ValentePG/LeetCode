@@ -42,6 +42,6 @@ mas absorvi mais um padrão de solução bem interessante, amanhã revisarei tod
   
 **22/10/24: Conheci um site chamado neetcode.io onde contém um roadmap que achei viável para utilizar enquanto treino DSA em leetcode. Também adicionei mais 2 exercicios de arrays.**
 
-**23/10/24: Conheci um novo padrão two pointer, que basicamente é ter um ponteiro no inicio e um no final de determinada lista, o ponteiro do inicio você incrementa fazendo determinado processo e do ponteiro final você decrementa. Não imaginava que esse era o famoso two pointer, achei que fosse o mesmo padrão do faster e lower de linked lists mas aparentemente são 2 coisas diferentes. Ainda devo fazer mais coisas hoje.**
+**23/10/24: Conheci um novo padrão two pointer, que basicamente é ter um ponteiro no inicio e um no final de determinada lista, o ponteiro do inicio você incrementa fazendo determinado processo e do ponteiro final você decrementa. Não imaginava que esse era o famoso two pointer, achei que fosse o mesmo padrão do faster e lower de linked lists mas aparentemente são 2 coisas diferentes.**
 
 

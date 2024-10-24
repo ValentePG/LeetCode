@@ -44,4 +44,5 @@ mas absorvi mais um padrão de solução bem interessante, amanhã revisarei tod
 
 **23/10/24: Conheci um novo padrão two pointer, que basicamente é ter um ponteiro no inicio e um no final de determinada lista, o ponteiro do inicio você incrementa fazendo determinado processo e do ponteiro final você decrementa. Não imaginava que esse era o famoso two pointer, achei que fosse o mesmo padrão do faster e lower de linked lists mas aparentemente são 2 coisas diferentes.**
 
-
+**24/10/24: Cada dia que passa sinto que sei menos, mas isso é bom. A solução do desafio de hoje foi absurda e eu não passei nem perto da resolução.
+com certeza vou revisar essa aqui milhões de vezes.**

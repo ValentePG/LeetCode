@@ -49,3 +49,5 @@ com certeza vou revisar essa aqui milhões de vezes.**
 
 **25/10/24: Eu acabei testando uma nova forma para fazer leetcode de ontem pra hoje, onde eu tento resolver um novo desafio, caso não consiga depois de algum tempo busco a solução,entendo o algoritmo utilizado e commito ele no *Repo*. No outro dia me forço a implementar este algoritmo diretamente no leetcode, sem consultar em lugar algum (A não ser que eu não consiga novamente).
 E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o exercício foi resolvido em menos de 10 minutos aproximadamente. Eu vou tentar sempre fazer isso a partir de hoje. (Bucket Sort é maluquice!)**
+
+**26/10/24: Descanso.** 

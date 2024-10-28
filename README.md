@@ -51,3 +51,7 @@ com certeza vou revisar essa aqui milhões de vezes.**
 E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o exercício foi resolvido em menos de 10 minutos aproximadamente. Eu vou tentar sempre fazer isso a partir de hoje. (Bucket Sort é maluquice!)**
 
 **26/10/24: Descanso.** 
+
+**27/10/24: Acabei tendo uma ideia de projeto onde usarei RabbitMQ ou Kafka para conectar uma aplicação SpringBoot com outra em python, a cada registro novo no BD da aplicação principal é enviado uma mensagem para o "cluster", o programa python le desse cluster e busca a informação que mudou dentro do BD principal e grava em um arquivo txt (Poderia ser em qualquer outro lugar ou extensão) simples porém eu estava mesmo precisando fazer algo parecido com microserviços e utilizando mensageria. **
+
+

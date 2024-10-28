@@ -54,4 +54,6 @@ E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o 
 
 **27/10/24: Acabei tendo uma ideia de projeto onde usarei RabbitMQ ou Kafka para conectar uma aplicação SpringBoot com outra em python, a cada registro novo no BD da aplicação principal é enviado uma mensagem para o "cluster", o programa python le desse cluster e busca a informação que mudou dentro do BD principal e grava em um arquivo txt (Poderia ser em qualquer outro lugar ou extensão) simples porém eu estava mesmo precisando fazer algo parecido com microserviços e utilizando mensageria.**
 
+**28/10/24: Estudei sobre RabbitMQ e aprendi algumas coisas básicas que vão ser o suficiente para por o projeto em prática, como o funcionamento de exchanges, alguns tipos diferentes delas. A funcionalidade e o propósito de mensageria eu ja conhecia, porém agora sinto que solidifiquei mais o conhecimento, provavelmente amanhã eu começo o projeto.**
+
 

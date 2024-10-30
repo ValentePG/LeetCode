@@ -56,4 +56,8 @@ E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o 
 
 **28/10/24: Estudei sobre RabbitMQ e aprendi algumas coisas básicas que vão ser o suficiente para por o projeto em prática, como o funcionamento de exchanges, alguns tipos diferentes delas. A funcionalidade e o propósito de mensageria eu ja conhecia, porém agora sinto que solidifiquei mais o conhecimento, provavelmente amanhã eu começo o projeto.**
 
+**29/10/24: Falhei**
+
+**30/10/24: Iniciei a prática de "Micro serviços" e mensageria com o objetivo de fazer o projeto citado no dia 27/10, adicionei 2 repos com um projeto de base que criei apenas utilizando o get started do RabbitMQ (bem simples), a ideia agora é ir dando forma ao projeto aos poucos diariamente. Não consegui fazer LeetCode nos ultimos 3 dias, mas foi por um bom motivo. 
+
 

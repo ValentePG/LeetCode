@@ -58,7 +58,7 @@ E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o 
 
 **29/10/24: Falhei**
 
-**30/10/24: Iniciei a prática de "Micro serviços" e mensageria com o objetivo de fazer o projeto citado no dia 27/10, adicionei 2 repos com um projeto de base que criei apenas utilizando o get started do RabbitMQ (bem simples), a ideia agora é ir dando forma ao projeto aos poucos diariamente. Não consegui fazer LeetCode nos ultimos 3 dias, mas foi por um bom motivo. 
+**30/10/24: Iniciei a prática de "Micro serviços" e mensageria com o objetivo de fazer o projeto citado no dia 27/10, adicionei 2 repos com um projeto de base que criei apenas utilizando o get started do RabbitMQ (bem simples), a ideia agora é ir dando forma ao projeto aos poucos diariamente. Não consegui fazer LeetCode nos ultimos 3 dias, mas foi por um bom motivo.**
 
 ### Perdi o medo da doc ###
 **31/10/24: Preciso confessar... Hoje talvez tenha sido um dos melhores dias em relação a estudo, pois ao invés de ir atrás de tutoriais em video ou algum curso, recorri 100% a documentação, descobri (pelo menos o básico) de como se declara exchanges, filas, como enviar uma classe simples por mensagem (Oque abre um leque ENORME de possibilidades), eu me senti de fato como se estivesse dissecando os métodos da doc e descobrindo o que cada uma faz. Pretendo estudar mais assim daqui pra frente e menos com tutoriais.

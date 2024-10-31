@@ -62,6 +62,6 @@ E aparentemente eu consegui tanto pensar na explicação do algoritmo, quanto o 
 
 ### Perdi o medo da doc ###
 **31/10/24: Preciso confessar... Hoje talvez tenha sido um dos melhores dias em relação a estudo, pois ao invés de ir atrás de tutoriais em video ou algum curso, recorri 100% a documentação, descobri (pelo menos o básico) de como se declara exchanges, filas, como enviar uma classe simples por mensagem (Oque abre um leque ENORME de possibilidades), eu me senti de fato como se estivesse dissecando os métodos da doc e descobrindo o que cada uma faz. Pretendo estudar mais assim daqui pra frente e menos com tutoriais.
-Antes tarde do que nunca.**
+Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, melhorou de alguma forma a minha "Vontade" (Essa não é a melhor palavra) de experimentar coisas mais complexas?)**
 
 

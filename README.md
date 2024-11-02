@@ -66,4 +66,6 @@ Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, me
 
 **01/11/24: Fiz o mesmo de ontem porém com spring boot, foi um sucesso. Ja tenho uma ideia de projeto para fazer, agora só irei implementar.(leetcode ficou de lado por enquanto)**
 
+**02/11/24: Prátiquei um pouco de shellscript e senti um certo controle a mais em relação ao terminal e ao PC em geral, já havia praticado antes mas resolvi fixar mais um pouco por que acho uma linguagem muito importante para se aprender. (devo fazer mais alguma coisa hoje)**
+
 

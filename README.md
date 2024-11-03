@@ -68,4 +68,4 @@ Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, me
 
 **02/11/24: Prátiquei um pouco de shellscript e senti um certo controle a mais em relação ao terminal e ao PC em geral, já havia praticado antes mas resolvi fixar mais um pouco por que acho uma linguagem muito importante para se aprender. (devo fazer mais alguma coisa hoje)**
 
-
+**03/11/24: O plano da semana é implementar o rabbitMQ em um projeto um pouco mais "Robusto". Planejo também rever assuntos mais voltados a código como por exemplo arquitetura hexagonal e arquitetura limpa, não posso passar desse ano sem melhorar um pouco mais meu código em si.**

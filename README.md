@@ -73,3 +73,6 @@ Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, me
 **04/11/24: Iniciei mais um conteúdo com o professor Isidro sobre Web Development com java, é uma sequência de aulas antigas de 5 anos atrás, porém que acredito que vá adicionar muito ao fundamento que identifiquei que estava faltando em java.**
 
 **05/11/24: Aprofundei sobre servlet com o isidro.**
+
+**06/11/24: Aprendi como configurar um webapp com servlet + jsp no intellij, subir um tomcat e expor rotas. Aparentemente é oque o springboot abstrai pra gente na hora de criar apis. (Obviamente em uma escala muito maior que isso)
+Vou continuar a série de aulas com o isidro para me aprofundar mais.**

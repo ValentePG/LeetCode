@@ -76,3 +76,5 @@ Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, me
 
 **06/11/24: Aprendi como configurar um webapp com servlet + jsp no intellij, subir um tomcat e expor rotas. Aparentemente é oque o springboot abstrai pra gente na hora de criar apis. (Obviamente em uma escala muito maior que isso)
 Vou continuar a série de aulas com o isidro para me aprofundar mais.**
+
+**07/11/24: falhei.**

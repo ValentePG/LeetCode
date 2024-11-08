@@ -78,3 +78,5 @@ Antes tarde do que nunca. (Será que o ato de ter começado a fazer leetcode, me
 Vou continuar a série de aulas com o isidro para me aprofundar mais.**
 
 **07/11/24: falhei.**
+
+**08/11/24: Preciso me organizar melhor, essa semana foi uma bagunça, hoje assisti uns videos do akita que me fizeram refletir bastante como sempre, mas acabei não colocando muito a mão no código.**

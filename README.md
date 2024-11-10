@@ -81,4 +81,7 @@ Vou continuar a série de aulas com o isidro para me aprofundar mais.**
 
 **08/11/24: Preciso me organizar melhor, essa semana foi uma bagunça, hoje assisti uns videos do akita que me fizeram refletir bastante como sempre, mas acabei não colocando muito a mão no código.**
 
-**09/11/24: Estudei um pouco sobre redes no canal hardwaredesbrasil que é uma branch do curso em video e me deu um fundamento legal sobre algumas coisas importantes.**
+**09/11/24: Estudei um pouco sobre redes no canal hardwaredesbrasil que é uma branch do curso em video e me deu um fundamento legal sobre algumas coisas importantes.
+Me dei conta que hoje faz exatamente um mês que eu comecei a fazer este relatório e é muito interessante reparar o quanto as coisas mudaram. Os dias anotados com descanso, significam que em algum dos dias do final de semana eu acabei não fazendo muito código e não tinha oque commitar (apesar de ainda assim ter consumido algum tipo de conteúdo de Tech)
+Já os anotados com falhei significa basicamente a mesma coisa só que em um dia da semana, que é realmente considerado uma falha pois é quando eu deveria estar me esforçando mais então a boa noticia: em um mês foram apenas 2 falhas e 2 descansos. A má notícia: Apesar de poucos "erros" eu ainda preciso melhorar, foi um mês instável, isso aqui era pra ser uma repo de leetcode e virou um diário. Então para o próximo mês eu deveria focar mais ao invés de tentar abraçar muita coisa ao mesmo tempo.
+Ao mesmo tempo que tenho que melhorar, fico feliz pois estou fazendo algo diferente, algo que nunca havia tentado antes que é documentar o meu dia a dia, ainda que apenas o necessário.**

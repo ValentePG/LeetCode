@@ -80,3 +80,5 @@ Vou continuar a série de aulas com o isidro para me aprofundar mais.**
 **07/11/24: falhei.**
 
 **08/11/24: Preciso me organizar melhor, essa semana foi uma bagunça, hoje assisti uns videos do akita que me fizeram refletir bastante como sempre, mas acabei não colocando muito a mão no código.**
+
+**09/11/24: Estudei um pouco sobre redes no canal hardwaredesbrasil que é uma branch do curso em video e me deu um fundamento legal sobre algumas coisas importantes.

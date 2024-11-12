@@ -89,3 +89,5 @@ Ao mesmo tempo que tenho que melhorar, fico feliz pois estou fazendo algo difere
 **10/11/24: Fiz a compra do livro de sistemas operacionais do tanenmbaun chega amanhã, pretendo evoluir minha capacidade de leitura e entendimento de livros mais técnicamente complexos e consequentemente melhorar os meus fundamentos como profissional de TI.
 Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta para conseguir projetar completamente um sistema em spring, essa semana vai ser pesada...
 *Inglês, CI/CD (Facul), Spring Security , leetcode + prática e Sistemas Operacionais***
+
+**11/10/24: Decidi terminar de assistir a playlist do isidro sobre web para poder minimamente entender como um projeto 0 frameworks funciona em java, hoje (dia 12) eu termino.**

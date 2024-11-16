@@ -98,4 +98,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **14/10/24: Maratonei o canal do isidro e estou dando uma repassada no DevDojo para relembrar alguns utilitários de java e outras coisas mais.**
 
-**15/10/24: Estou aprofundando um pouco mais no pacote IO e NIO do java, e é talvez uma das coisas mais legais que eu ja vi, a sensação de você ler dados, escrever dados, depois você transferir estes dados para outro lugar, fisicamente (em disco), é quase a mesma sensação de quando eu estudei front-end pela primeira vez, da pra sentir que você ta criando algo de verdade, você de fato ve a coisa acontecendo, é um pouco diferente de quando estamos criando uma API, apesar de não ser TÃO DIFERENTE assim, eu não sei explicar!.
+**15/10/24: Estou aprofundando um pouco mais no pacote IO e NIO do java, e é talvez uma das coisas mais legais que eu ja vi, a sensação de você ler dados, escrever dados, depois você transferir estes dados para outro lugar, fisicamente (em disco), é quase a mesma sensação de quando eu estudei front-end pela primeira vez, da pra sentir que você ta criando algo de verdade, você de fato ve a coisa acontecendo, é um pouco diferente de quando estamos criando uma API, apesar de não ser TÃO DIFERENTE assim, eu não sei explicar.
+
+**16/10/24: Estudei um pouco sobre comunicação entre sistemas via socket em java, dei uma revisitada no conceito de threads e pensando seriamente em fazer um chatbot com IA utilizando esses 2 conceitos utilizando LangChain4j.**

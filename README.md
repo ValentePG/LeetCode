@@ -103,3 +103,7 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **16/10/24: Estudei um pouco sobre comunicação entre sistemas via socket em java, dei uma revisitada no conceito de threads e pensando seriamente em fazer um chatbot com IA utilizando esses 2 conceitos utilizando LangChain4j.**
 
 **17/10/24: Quase todo domingo eu tiro um momento do dia para pensar no que eu vou fazer com a minha carreira e eu não consigo parar de pensar em fazer meu próprio software e tentar vender, eu estudo quase todo santo dia pra isso, ser bom o suficiente para que eu viva criando software e resolvendo o problema das pessoas através deles, mesmo que sozinho, mas confesso que é assustador as vezes.
+
+**18/10/24: Tirei o dia para matar as aulas da faculdade de uma vez, felizmente esse trimestre teve spring, docker e ci/cd, que tirando ci/cd eu ja to até trabalhando tranquilo com o resto e teve react também mas sinceramente... o commit do dia 19 vai ser autoexplicativo.**
+
+**19/10/24: Comecei a estudar Angular para integrar com minhas APIS e vou repassar o assunto de ci/cd visto na faculdade pois achei importante demais, além disso provavelmente irei assinar um plano de vps para poder brincar de fazer deploy das aplicações, para poder chegar mais perto de uma aplicação em produção real.**

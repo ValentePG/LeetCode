@@ -107,3 +107,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **18/10/24: Tirei o dia para matar as aulas da faculdade de uma vez, felizmente esse trimestre teve spring, docker e ci/cd, que tirando ci/cd eu ja to até trabalhando tranquilo com o resto e teve react também mas sinceramente... o commit do dia 19 vai ser autoexplicativo.**
 
 **19/10/24: Comecei a estudar Angular para integrar com minhas APIS e vou repassar o assunto de ci/cd visto na faculdade pois achei importante demais, além disso provavelmente irei assinar um plano de vps para poder brincar de fazer deploy das aplicações, para poder chegar mais perto de uma aplicação em produção real.**
+
+**20-21-22/10/24: Configurar websockets ta levando mais tempo do que eu esperava, amanhã irei tentar novamente.** 
+

@@ -110,3 +110,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **20-21-22/10/24: Configurar websockets ta levando mais tempo do que eu esperava, amanhã irei tentar novamente.** 
 
+**23-24/10/24: Consegui configurar o front-end e o back-end para se conectarem via websockets, esta semana irei fazer o esqueleto do projeto, o objetivo é fazer um chat igual um GPT da vida, vai ter um prompt do client e o servidor imediatamente responde com oque foi respondido pela IA, bem simples apenas para aprender mesmo.**
+

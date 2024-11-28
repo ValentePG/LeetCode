@@ -116,3 +116,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **26/10/24: Encontrei algumas dificuldades na regra de negócio do projeto, ainda decidindo se terá algum tipo de persistência, inevitavelmente terá mas, para oque eu quero ainda não necessariamente precisaria ter, amanhã irei implementar mais alguma coisa, talvez eu foque mais na parte de envio da mensagem logo já que é o core da aplicação e depois eu organizo melhor os detalhes de implementação.**
 
+**27/10/24: Faltam alguns detalhes mas ja consegui achar uma lógica para resolver a questão do chat, por um lado ja é possível enviar a mensagem e a mesma ser renderizada em uma sessão diferente para outro usuário, agora o código precisa passar por uma refatoração não tão complicada e algumas alterações na própria regra de negócio.**
+

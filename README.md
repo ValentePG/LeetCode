@@ -118,3 +118,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **27/10/24: Faltam alguns detalhes mas ja consegui achar uma lógica para resolver a questão do chat, por um lado ja é possível enviar a mensagem e a mesma ser renderizada em uma sessão diferente para outro usuário, agora o código precisa passar por uma refatoração não tão complicada e algumas alterações na própria regra de negócio.**
 
+**28/10/24: Tirei o dia pra fazer algumas alterações no currículo, ainda irei fazer alterações no github e no linkedin. Ainda assim enviei o curriculo para uma vaga de estágio de javinha, sei que tem muita coisa pra melhorar mas quem sabe.**
+

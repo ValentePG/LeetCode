@@ -28,7 +28,7 @@ Amanhã farei 2 para compensar.**
 
 **17/10/24: Parei para refletir sobre os exercicios de linkedLists e quase todos seguem o mesmo padrão de two pointers.
 (Mais tarde) Voltei para fazer mais um exercicio, e acabei me deparando com uma solução que ja havia utilizado no exercicio two sum, 
-consegui fazer tranquilamente (Tirando os problemas da descrição desse exercicio que me fizeram submeter errado algumas vezes), aparentemente a prática esta dando resultado.
+consegui fazer tranquilamente (Tirando os problemas da descrição desse exercicio que me fizeram submeter errado algumas vezes), aparentemente a prática esta dando resultado.**
 *(A partir de hoje irei alocar 2 horas por dia para praticar, afinal eu ainda preciso desenvolver projetos para portfólio)***
 
 **18/10/24: Refatorei alguns códigos anteriores e fiz mais um exercicio. Mais uma vez, traduzir a solução em código foi um problema enorme,
@@ -102,7 +102,7 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **16/10/24: Estudei um pouco sobre comunicação entre sistemas via socket em java, dei uma revisitada no conceito de threads e pensando seriamente em fazer um chatbot com IA utilizando esses 2 conceitos utilizando LangChain4j.**
 
-**17/10/24: Quase todo domingo eu tiro um momento do dia para pensar no que eu vou fazer com a minha carreira e eu não consigo parar de pensar em fazer meu próprio software e tentar vender, eu estudo quase todo santo dia pra isso, ser bom o suficiente para que eu viva criando software e resolvendo o problema das pessoas através deles, mesmo que sozinho, mas confesso que é assustador as vezes.
+**17/10/24: Quase todo domingo eu tiro um momento do dia para pensar no que eu vou fazer com a minha carreira e eu não consigo parar de pensar em fazer meu próprio software e tentar vender, eu estudo quase todo santo dia pra isso, ser bom o suficiente para que eu viva criando software e resolvendo o problema das pessoas através deles, mesmo que sozinho, mas confesso que é assustador as vezes.**
 
 **18/10/24: Tirei o dia para matar as aulas da faculdade de uma vez, felizmente esse trimestre teve spring, docker e ci/cd, que tirando ci/cd eu ja to até trabalhando tranquilo com o resto e teve react também mas sinceramente... o commit do dia 19 vai ser autoexplicativo.**
 

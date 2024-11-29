@@ -120,3 +120,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **28/10/24: Tirei o dia pra fazer algumas alterações no currículo, ainda irei fazer alterações no github e no linkedin. Ainda assim enviei o curriculo para uma vaga de estágio de javinha, sei que tem muita coisa pra melhorar mas quem sabe.**
 
+**29/10/24: Conheci um pouco de uma biblioteca chamada PDFBox que é utilizada para leitura e escrita de pdfs entre outras coisas, achei interessante, acabei fazendo um projeto protótipo onde eu leio o pdf do meu curriculo, passo para uma string e envio para o GPT pedindo uma opinião sobre o currículo. To pensando em implementar o modelo OLLAMA localmente para usar nos projetos, mas eu n sei se meu hardware vai tankar.**
+

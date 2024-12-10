@@ -127,5 +127,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **08/12/24: Comecei a usar o GitHub Copilot no vsCode, vou usar para me ajudar no front-end, refatorei um pouco do projeto já fazendo uso do mesmo e até agora achei útil, acredito que seja uma boa pelo menos nas partes mais simples do projeto. Preciso ficar atento nas funções que são indicadas pelo copilot pois preciso entender oque ele está sugerindo, obviamente.**
 
-**09/12/24: Consegui formatar a entrada e a saída dos dados, agora preciso adicionar algumas features no back-end e organizar melhor.**
-
+**09/12/24: Consegui formatar a entrada e a saída dos dados, agora preciso adicionar algumas features no back-end e organizar melhor, adicionei o jackson para parsear a mensagem ao invés do GSON.**

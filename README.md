@@ -131,3 +131,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **10/12/24: Mexi em algumas coisas no github e comecei mais um projeto em spring não inicializei o repo remoto ainda.**
 
+**11/12/24: dia 09 fez 2 meses em que eu iniciei este relatório, a evolução de la até aqui foi evidente, estou praticando mais, tendo muito mais ideias de projetos para criar, por mais pequenos que sejam são muito importantes para a minha evolução. Preciso voltar a fazer leetcode também.**

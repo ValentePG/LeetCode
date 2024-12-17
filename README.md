@@ -139,3 +139,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **14/12/24: Iniciei um curso novo na devDojo sobre spring-boot para reciclar algumas coisas e aprender novas features ja que é um curso recente, hoje a aula foi mais uma explicação sobre virtual threads e suas vantagens acompanhado de um teste de performance que eu nem sabia que dava para fazer com postman e o uso de um sistema chamado visualVM para acompanhar o funcionamento da JVM, vi apenas essa aula por hoje.**
 
+**15 - 16 - 17/12/24: Quarto dia estudando o novo curso da DevDojo, já aprendi alguns detalhes importantes que havia deixado passar durante o ano, principalmente sobre headers de requisição e como personaliza-las, faltam 150 aulas ainda, pretendo terminar antes do ano que vem.**
+

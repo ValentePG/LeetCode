@@ -144,3 +144,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **18/12/24: Mais um dia, revisei alguns conceitos sobre Optional, ResponseEntitys, lambdas e streams. Além disso a partir de agora usarei mapStruct como mapper padrão nos meus projetos, antigamente eu fazia na mão e ficava horrível, depois vou estudar com mais detalhes a documentação, mas oque foi passado no curso é o suficiente para utilizar em projetos.**
 
 **19/12/24: Cheguei na aula 29, por enquanto revisando o padrão MVC do spring, tranquilo até aqui.**
+
+**20/12/24: Revisei alguns conceitos sobre @Bean e @Configuration no springboot,amanhã ou hoje mesmo ja começo as aulas sobre testes, preciso revisar alguns conceitos também.**

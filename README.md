@@ -148,3 +148,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **20/12/24: Revisei alguns conceitos sobre @Bean e @Configuration no springboot,amanhã ou hoje mesmo ja começo as aulas sobre testes, preciso revisar alguns conceitos também.**
 
 **21/12/24: Hoje configurei o LLM llama3 no meu pc, em breve farei um projeto utilizando ele, quem sabe eu não coloque ele lá no projeto do chat, tirando isso não fiz mais tanta coisa, hj eu peguei leve.**
+
+**22/12/24: Dia de organizar a semana, vou tentar terminar o curso essa semana mesmo.**
+

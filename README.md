@@ -151,3 +151,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **22/12/24: Dia de organizar a semana, vou tentar terminar o curso essa semana mesmo.**
 
+**23/12/24: Aprendi e relembrei algumas coisas sobre testes unitários com Junit e mockito.**
+

@@ -154,3 +154,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **23/12/24: Aprendi e relembrei algumas coisas sobre testes unitários com Junit e mockito.**
 
 **24 - 25/12/24: Ta dificil assistir as aulas neste final de ano, mas implementei os testes e fiz os exercicios propostos, vou assistir as aulas apenas para correção de algumas coisas. Feliz natal.**
+
+**26/12/24: Refatorei alguns testes, e adicionei algumas utilidades, aproveitei para revisar generics, criando uma interface que recebe um tipo genérico e que possui um método que retorna uma Lista do tipo genérico também, diminuindo assim a repetição de código nos meus testes ja que a função é apenas retornar uma lista.**
+

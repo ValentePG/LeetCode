@@ -157,3 +157,8 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **26/12/24: Refatorei alguns testes, e adicionei algumas utilidades, aproveitei para revisar generics, criando uma interface que recebe um tipo genérico e que possui um método que retorna uma Lista do tipo genérico também, diminuindo assim a repetição de código nos meus testes ja que a função é apenas retornar uma lista.**
 
+**27-28/12/24: Iniciei o dia criando um script em shell para facilitar meu trabalho no dia a dia, bem simples apenas inicia o intellij automaticamente dentro de um projeto que eu defini, após isso executa outro script que serve para commitar neste repositório, se encaminha para o caminho do projeto definido e roda os testes com mvn test, se passar tudo corretamente, se inicia o git-automate, que serve para commitar o projeto no repositório remoto. Além disso dei inicio ao teste "unitário" do controlador, foi muito importante pois revisei a configuração para poder utilizar o mockmvc, que após tentar configurar sozinho acabei não conseguindo executar.**
+
+**29/12/24: Refatorei alguns testes e implementei alguns outros no controller.**
+
+**30/12/24: Terminando as aulas e os testes unitários hoje, ainda devo assistir mais algumas outras aulas para compensar 2 dias que eu fiz corpo mole semana passada, infelizmente não vou conseguir finalizar antes do ano novo provavelmente.Acabei de perceber que eu retirei o script de automação que utilizava para commitar neste repositório no dia 25, ou seja eu estava apenas commitando para o repositório local e não para o remoto, que tristeza.**

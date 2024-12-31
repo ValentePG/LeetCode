@@ -162,3 +162,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **29/12/24: Refatorei alguns testes e implementei alguns outros no controller.**
 
 **30/12/24: Terminando as aulas e os testes unitários hoje, ainda devo assistir mais algumas outras aulas para compensar 2 dias que eu fiz corpo mole semana passada, infelizmente não vou conseguir finalizar antes do ano novo provavelmente.Acabei de perceber que eu retirei o script de automação que utilizava para commitar neste repositório no dia 25, ou seja eu estava apenas commitando para o repositório local e não para o remoto, que tristeza.**
+
+**31/12/24: Iniciei o exercicio proposto na aula 54 do curso, terminei o projeto, agora preciso criar os testes, ainda tentarei fazer hoje mesmo.**
